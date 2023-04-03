@@ -1,6 +1,6 @@
 # odin-recipes
 
-This is the first project form the Odin Project Curriculum.
+This is the first project from the Odin Project Curriculum.
 
 Skills:
 
@@ -9,3 +9,5 @@ Skills:
 - CLI basics
 - HTML lists, links, images
 - Git commit messages
+
+The project is a simple recipe website.
